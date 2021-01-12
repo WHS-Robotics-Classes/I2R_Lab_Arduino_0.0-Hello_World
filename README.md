@@ -3,9 +3,15 @@ This is our initial programming assignment for *Introduction to Robotics*.  The 
 
 For all programming assignments in this class you will do the following:
 1. Read the README.md file provided in the assignment repository for instructions.
-2. Copy any starter code provided for you (Starter.ino file) into the Arduino IDE.
+2. Copy any starter code provided for you (Starter.ino file) into the [Codebender IDE](https://edu.codebender.cc/class/1ajtp).
 3. Modify the code according to the instructions for the assignmnet.
 4. Test the code on your Arduino.
 5. Debug code if necessary.
 6. Create a new file in the assignment repository with the appropriate name.
 7. Click the "Commit Changes" button at the bottom to submit.
+
+Since this assignment is more about testing out your IDE and your ability to run code to the Arduino, this will be a simple assignment.  Specific instructions are listed Below:
+1. Be sure to read this entire document before starting your work.  View the video below so you understand what you will be making.
+2. Open the [Codebender IDE](https://edu.codebender.cc/class/1ajtp) which is a part of our school license.  There is also a free version of this but it has some limitations which will make it difficult to use for later assignments.
+3. Go to the Starter.ino file in this repository.  Copy all of that code into the [Codebender IDE](https://edu.codebender.cc/class/1ajtp) fully replacing the code that is there.
+4. 
