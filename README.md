@@ -16,9 +16,12 @@ Since this assignment is more about testing out your IDE and your ability to run
 3. Go to the Starter.ino file in this repository.  Copy all of that code into the [Codebender IDE](https://edu.codebender.cc/class/1ajtp) fully replacing the code that is there.
 4. Modify line 4 so that it will print "Hello World" when the program runs.  (Put that phrase in quotes inside the parenthesis after `Serial.println`.)
 5. Test the code.  
-  - Connect your Arduino to your computer with the blue USB cable.  
-  - Select "Arduino Uno" in the first pulldown.  
-  - Be sure that the second pulldown shows the current USB.  It should say something like ACMO?
+    - Connect your Arduino to your computer with the blue USB cable.  
+    - Select "Arduino Uno" in the first pulldown.  
+    - Be sure that the second pulldown shows the current USB.  It should say something like ACMO?
 6. Debug the code and repeat step 5 until it works.
 7. Click the link above that says "Arduino_0.0-Hello_World".
-
+8. Select "Add File" and then "Create New File".
+9. Name the file Hello_World.ino.
+10. Copy the code into the code window.
+11. "Commit New File".
