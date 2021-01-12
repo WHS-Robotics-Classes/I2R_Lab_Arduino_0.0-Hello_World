@@ -1,14 +1,11 @@
-// Create a sketch that prints "Hello, World:" followed by a counter that continually climbs by one number at a time.
-// Use this code to get started.
-
-int x = 0;
-
 void setup() {
-  Serial.begin();
+  // put your setup code here, to run once:
+  Serial.begin(9600);
+  Serial.println(); // put your message that you would like to display in the serial monitor in quotes inside the parenthesis here
 }
 
 void loop() {
-  S_____.____("Hello, World: ");
-  S_____.____(x);
-  x = __ + __
+  // put your main code here, to run repeatedly:
+
 }
+
