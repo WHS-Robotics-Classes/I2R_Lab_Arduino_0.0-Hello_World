@@ -19,9 +19,10 @@ Since this assignment is more about testing out your IDE and your ability to run
     - Connect your Arduino to your computer with the blue USB cable.  
     - Select "Arduino Uno" in the first pulldown.  
     - Be sure that the second pulldown shows the current USB.  It should say something like ACMO?
-6. Debug the code and repeat step 5 until it works.
+6. Debug the code and repeat step 5 until it works.  Jump down to the link in step 12 to look over the documentation for this function.
 7. Click the link above that says "Arduino_0.0-Hello_World".
 8. Select "Add File" and then "Create New File".
 9. Name the file Hello_World.ino.
 10. Copy the code into the code window.
 11. "Commit New File".
+12. Read over the [`Serial.println` documentation on the Arduino website](https://www.arduino.cc/reference/en/language/functions/communication/serial/println/) to make sure you understand what you just did.
