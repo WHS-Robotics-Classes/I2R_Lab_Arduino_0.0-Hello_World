@@ -1,2 +1,2 @@
-# 0.0-Hello_World
+# Arduino 0.0-Hello World
 Initial Programming Assignment for Introduction to Robotics Class
