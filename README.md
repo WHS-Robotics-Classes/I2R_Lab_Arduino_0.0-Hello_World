@@ -66,4 +66,4 @@ Since this assignment is more about testing out your IDE and your ability to run
 - Print the same message over and over again forever.
 - Create a counter so that the serial monitor prints "Counting: " followed by a number that increases by one with every new line.  See below.
 
-1[counting up](https://github.com/WHS-Robotics-Classes/images/blob/main/Screenshot%202021-01-20%20at%201.31.08%20PM.png?raw=true)
+![counting up](https://github.com/WHS-Robotics-Classes/images/blob/main/Screenshot%202021-01-20%20at%201.31.08%20PM.png?raw=true)
