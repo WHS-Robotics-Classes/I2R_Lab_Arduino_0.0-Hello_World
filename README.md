@@ -53,6 +53,7 @@ Since this assignment is more about testing out your IDE and your ability to run
 9. Name the file Hello_World.ino.
 10. Copy the code into the code window.
 11. "Commit New File".
+
 ![commit](https://github.com/WHS-Robotics-Classes/images/blob/main/commit.PNG?raw=true)
 
 12. Read over the [`Serial.println()` documentation on the Arduino website](https://www.arduino.cc/reference/en/language/functions/communication/serial/println/) to make sure you understand what you just did.
