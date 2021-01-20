@@ -3,7 +3,7 @@
 
 ---
 
-**IMPORTANT: Before you start using your Chromebook to write code, be sure that your keyboard is set to "US", not "INTL"**
+### **IMPORTANT: Before you start using your Chromebook to write code, be sure that your keyboard is set to "US", not "INTL"**
 
 Like this:
 ![US](https://github.com/WHS-Robotics-Classes/images/blob/main/Screenshot%202021-01-20%20at%201.17.59%20PM.png?raw=true)
