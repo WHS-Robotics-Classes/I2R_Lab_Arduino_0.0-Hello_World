@@ -16,7 +16,7 @@ To change your keyboard configuration, click on the "INTL" label and select "US 
 
 ---
 
-For all programming assignments in this class you will do the following:
+### For all programming assignments in this class you will do the following:
 1. Read the README.md file provided in the assignment repository for instructions.
 2. Copy any starter code provided for you (Starter.ino file) into the [Codebender IDE](https://edu.codebender.cc/class/1ajtp).
 3. Modify the code according to the instructions for the assignmnet.
@@ -55,6 +55,8 @@ Since this assignment is more about testing out your IDE and your ability to run
 11. "Commit New File".
 12. Read over the [`Serial.println()` documentation on the Arduino website](https://www.arduino.cc/reference/en/language/functions/communication/serial/println/) to make sure you understand what you just did.
 
+### Your result in the Serial Monitor window should look like this:
+![Serial Monitor](https://github.com/WHS-Robotics-Classes/images/blob/main/Screenshot%202021-01-20%20at%201.16.47%20PM.png?raw=true)
 
 For an extra challenge see if you can do any of the following:
 - Print other messages in the serial monitor.
