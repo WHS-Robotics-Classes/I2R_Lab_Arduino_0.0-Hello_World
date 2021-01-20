@@ -19,7 +19,7 @@ Since this assignment is more about testing out your IDE and your ability to run
     - Connect your Arduino to your computer with the blue USB cable.  
     - Select "Arduino Uno" in the first pulldown.  
     - Be sure that the second pulldown shows the current USB.  It should say something like `/dev/tty/ACM0`
-    [pulldowns](https://github.com/WHS-Robotics-Classes/images/blob/main/Screenshot%202021-01-20%20at%2011.25.10%20AM.png?raw=true)
+    ![pulldowns](https://github.com/WHS-Robotics-Classes/images/blob/main/Screenshot%202021-01-20%20at%2011.25.10%20AM.png?raw=true)
     
     - Click the "Run on Arduino" button (Green Arrow)
     - Click the "Serial Monitor" button.
