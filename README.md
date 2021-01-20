@@ -27,7 +27,12 @@ Since this assignment is more about testing out your IDE and your ability to run
 6. Debug the code and repeat step 5 until it works.  Jump down to the link in step 12 to look over the documentation for this function.
 7. Click the link above that says "Arduino_0.0-Hello_World".
 ![arduino-hello-world](https://github.com/WHS-Robotics-Classes/images/blob/main/Repo-main.PNG?raw=true)
+
 8. Select "Add File" and then "Create New File".
+![add-file](https://github.com/WHS-Robotics-Classes/images/blob/main/add-file.PNG?raw=true)
+
+![new-file](https://github.com/WHS-Robotics-Classes/images/blob/main/new-file.PNG?raw=true)
+
 9. Name the file Hello_World.ino.
 10. Copy the code into the code window.
 11. "Commit New File".
