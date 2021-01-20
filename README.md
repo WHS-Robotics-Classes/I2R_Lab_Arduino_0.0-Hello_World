@@ -9,6 +9,9 @@ Like this:
 NOT This:
 ![INTL](https://github.com/WHS-Robotics-Classes/images/blob/main/Screenshot%202021-01-20%20at%201.17.31%20PM.png?raw=true)
 
+To change your keyboard configuration, click on the "INTL" label and select "US Keyboard" under Input Methods.
+![input-methods](https://github.com/WHS-Robotics-Classes/images/blob/main/Screenshot%202021-01-20%20at%201.23.13%20PM.png?raw=true)
+
 For all programming assignments in this class you will do the following:
 1. Read the README.md file provided in the assignment repository for instructions.
 2. Copy any starter code provided for you (Starter.ino file) into the [Codebender IDE](https://edu.codebender.cc/class/1ajtp).
