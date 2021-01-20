@@ -1,5 +1,5 @@
 # Arduino 0.0-Hello World
-##This is our initial programming assignment for *Introduction to Robotics*.  The purpose of any "Hello World" program has always been to demonstrate the ability to use a programming interface.  The roots of this activity go back to a programming book written in 1978 called [The C Programming Language](https://en.wikipedia.org/wiki/The_C_Programming_Language).  You will use this assignment as a chance to set up our programming environment, run your code to the Arduino and submit your finished assignment here on GitHub.
+## This is our initial programming assignment for *Introduction to Robotics*.  The purpose of any "Hello World" program has always been to demonstrate the ability to use a programming interface.  The roots of this activity go back to a programming book written in 1978 called [The C Programming Language](https://en.wikipedia.org/wiki/The_C_Programming_Language).  You will use this assignment as a chance to set up our programming environment, run your code to the Arduino and submit your finished assignment here on GitHub.
 
 ---
 
