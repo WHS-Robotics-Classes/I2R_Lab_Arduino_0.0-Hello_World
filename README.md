@@ -58,8 +58,12 @@ Since this assignment is more about testing out your IDE and your ability to run
 ### Your result in the Serial Monitor window should look like this:
 ![Serial Monitor](https://github.com/WHS-Robotics-Classes/images/blob/main/Screenshot%202021-01-20%20at%201.16.47%20PM.png?raw=true)
 
-For an extra challenge see if you can do any of the following:
+--- 
+
+### For an extra challenge see if you can do any of the following:
 - Print other messages in the serial monitor.
 - Print two messages side by side.
 - Print the same message over and over again forever.
 - Create a counter so that the serial monitor prints "Counting: " followed by a number that increases by one with every new line.  See below.
+
+1[counting up](https://github.com/WHS-Robotics-Classes/images/blob/main/Screenshot%202021-01-20%20at%201.31.08%20PM.png?raw=true)
