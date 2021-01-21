@@ -33,7 +33,7 @@ Since this assignment is more about testing out your IDE and your ability to run
 5. Test the code.  
     - Connect your Arduino to your computer with the blue USB cable.  
     - Select "Arduino Uno" in the first pulldown.  
-    - Be sure that the second pulldown shows the current USB.  It should say something like `/dev/tty/ACM0`
+    - Be sure that the second pulldown shows the current USB.  It should say something like `/dev/tty/ACM0`  If you cannot access the pulldown, you need to install the Codebender App on Chrome by clicking the link to the right.
     ![pulldowns](https://github.com/WHS-Robotics-Classes/images/blob/main/Screenshot%202021-01-20%20at%2011.25.10%20AM.png?raw=true)
     
     - Click the "Run on Arduino" button (Green Arrow)
