@@ -37,7 +37,10 @@ Since this assignment is more about testing out your IDE and your ability to run
     ![pulldowns](https://github.com/WHS-Robotics-Classes/Arduino_0.0-Hello_World/blob/main/Select_Port.png?raw=true)
     
     - Click the "Upload" button (Right Arrow)
-    - Click the "Serial Monitor" button.
+    - Click the "Monitor" button on the left sidebar.
+
+![monitor](https://github.com/WHS-Robotics-Classes/Arduino_0.0-Hello_World/blob/main/monitor.png?raw=true)
+
     - Be sure the baud rate pulldown is at 9600 and click "Connect".
     - Verify that the correct message is printed by comparing your screen to the image below.
     - If it all worked skip to step 7.  If not, go to next step.
