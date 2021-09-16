@@ -34,9 +34,9 @@ Since this assignment is more about testing out your IDE and your ability to run
     - Connect your Arduino to your computer with the blue USB cable.  
     - Select "Arduino Uno" in the first pulldown.  
     - Be sure that the second pulldown shows the current USB.  It should say something like `/dev/tty/ACM0`  If you cannot access the pulldown, you need to install the Codebender App on Chrome by clicking the link to the right.
-    ![pulldowns](https://github.com/WHS-Robotics-Classes/images/blob/main/Screenshot%202021-01-20%20at%2011.25.10%20AM.png?raw=true)
+    ![pulldowns](https://github.com/WHS-Robotics-Classes/Arduino_0.0-Hello_World/blob/main/Select_Port.png?raw=true)
     
-    - Click the "Run on Arduino" button (Green Arrow)
+    - Click the "Upload" button (Right Arrow)
     - Click the "Serial Monitor" button.
     - Be sure the baud rate pulldown is at 9600 and click "Connect".
     - Verify that the correct message is printed by comparing your screen to the image below.
