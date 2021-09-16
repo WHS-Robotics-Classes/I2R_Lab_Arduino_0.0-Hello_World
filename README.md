@@ -43,7 +43,11 @@ Since this assignment is more about testing out your IDE and your ability to run
 
     - Be sure the baud rate pulldown is at 9600 and click "Connect".
     - Verify that the correct message is printed by comparing your screen to the image below.
+    
+![hello](https://github.com/WHS-Robotics-Classes/Arduino_0.0-Hello_World/blob/main/hello.png?raw=true)
+    
     - If it all worked skip to step 7.  If not, go to next step.
+    
 6. Debug the code and repeat step 5 until it works.  Jump down to the link in step 12 to look over the documentation for this function.
 7. Click the link above that says "Arduino_0.0-Hello_World".
 ![arduino-hello-world](https://github.com/WHS-Robotics-Classes/images/blob/main/Repo-main.PNG?raw=true)
