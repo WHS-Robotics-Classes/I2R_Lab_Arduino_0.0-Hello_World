@@ -65,9 +65,6 @@ Since this assignment is more about testing out your IDE and your ability to run
 
 12. Read over the [`Serial.println()` documentation on the Arduino website](https://www.arduino.cc/reference/en/language/functions/communication/serial/println/) to make sure you understand what you just did.
 
-### Your result in the Serial Monitor window should look like this:
-![Serial Monitor](https://github.com/WHS-Robotics-Classes/images/blob/main/Screenshot%202021-01-20%20at%201.16.47%20PM.png?raw=true)
-
 --- 
 
 ### For an extra challenge see if you can do any of the following:
