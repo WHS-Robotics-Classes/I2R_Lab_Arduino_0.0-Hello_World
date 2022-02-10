@@ -27,13 +27,13 @@ To change your keyboard configuration, click on the "INTL" label and select "US 
 
 Since this assignment is more about testing out your IDE and your ability to run code to the Arduino, this will be a simple assignment.  Specific instructions are listed Below:
 1. Be sure to read this entire document before starting your work.  View the image below so you understand what you will be making.
-2. Open the [Arduino web editor](https://create.arduino.cc/editor) which is a part of our school license.  There is also a free version of this but it has some limitations which will make it difficult to use for later assignments.  You also need to install the Chrome app from the web store [here](https://chrome.google.com/webstore/detail/codebender-app/magknjdfniglanojbpadmpjlglepnlko?hl=en).
+2. Open the [Arduino web editor](https://create.arduino.cc/editor) which is a part of our school license.  There is also a free version of this but it has some limitations which will make it difficult to use for later assignments.  You also need to install the Chrome app from the web store [here](https://chrome.google.com/webstore/detail/arduino-create-for-educat/elmgohdonjdampbcgefphnlchgocpaij?hl=en).
 3. Go to the Starter.ino file (above) in this repository.  Copy all of that code into the [Arduino web editor](https://create.arduino.cc/editor) fully replacing the code that is there.
 4. Modify line 4 so that it will print "Hello World" when the program runs.  (Put that phrase in quotes inside the parenthesis after `Serial.println`.)
 5. Test the code.  
     - Connect your Arduino to your computer with the blue USB cable.  
     - Select "Arduino Uno" in the first pulldown.  
-    - Be sure that the second pulldown shows the current USB.  It should say something like `/dev/tty/ACM0`  If you cannot access the pulldown, you need to install the Codebender App on Chrome by clicking the link to the right.
+    - Be sure that the second pulldown shows the current USB.  It should say something like `/dev/tty/ACM0`  If you cannot access the pulldown, you need to install the Codebender App on Chrome by clicking the link in the section above.
     ![pulldowns](https://github.com/WHS-Robotics-Classes/Arduino_0.0-Hello_World/blob/main/Select_Port.png?raw=true)
     
     - Click the "Upload" button (Right Arrow)
